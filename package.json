@@ -1,0 +1,24 @@
+{
+  "name": "webdevelopment",
+  "version": "1.0.0",
+  "description": "Learn Node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartyChan1998/Webdevelopment.git"
+  },
+  "author": "Marty Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartyChan1998/Webdevelopment/issues"
+  },
+  "homepage": "https://github.com/MartyChan1998/Webdevelopment#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
